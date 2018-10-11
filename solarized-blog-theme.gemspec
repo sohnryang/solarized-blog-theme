@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "solarized-blog-theme"
-  spec.version       = "0.1.0"
-  spec.authors       = [""]
-  spec.email         = [""]
+  spec.version       = "0.0.0"
+  spec.authors       = ["Sohn Ryang"]
+  spec.email         = ["loop.infinitely@gmail.com"]
 
   spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
