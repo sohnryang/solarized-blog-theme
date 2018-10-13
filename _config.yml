@@ -5,3 +5,5 @@ description: >-
 baseurl: ""
 url: ""
 github_username: sampleuser
+sass:
+  sass_dir: _sass
