@@ -1,6 +1,5 @@
 ---
 layout: post
-title: A Test Post
 ---
 
 This post is for testing.
