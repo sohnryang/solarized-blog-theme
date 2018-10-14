@@ -5,5 +5,4 @@ description: >-
 baseurl: ""
 url: ""
 github_username: sampleuser
-sass:
-  sass_dir: _sass
+theme: solarized-blog-theme
