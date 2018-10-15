@@ -20,6 +20,7 @@ layout: default
                         {{ post.title | escape}} (written on {{ post.date | date: date_format }})
                     </a>
                 </h3>
+                <p>{{ post.excerpt }}</p>
             </li>
             {%- endfor -%}
         </ul>
