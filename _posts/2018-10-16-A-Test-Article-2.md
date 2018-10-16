@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Test Article 2
+tags: [test, code]
 ---
 
 # Code Test

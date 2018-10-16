@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Korean Test
+tags: [test, korean]
 ---
 
 # 수준 1
