@@ -1,6 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
+title: A Test Article
 ---
 
 This post is for testing.
