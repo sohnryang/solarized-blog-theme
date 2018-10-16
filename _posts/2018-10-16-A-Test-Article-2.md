@@ -1,6 +1,5 @@
 ---
 layout: post
-excerpt_separator: <!--more-->
 title: A Test Article 2
 ---
 
@@ -11,8 +10,6 @@ title: A Test Article 2
 ```python
 print('Hello, world!')
 ```
-
-<!--more-->
 
 ## C++
 

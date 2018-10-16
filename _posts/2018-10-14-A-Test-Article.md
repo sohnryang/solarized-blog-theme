@@ -1,6 +1,5 @@
 ---
 layout: post
-excerpt_separator: <!--more-->
 title: A Test Article
 ---
 
