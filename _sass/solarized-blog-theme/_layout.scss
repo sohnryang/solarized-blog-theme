@@ -2,6 +2,11 @@
     color: $solarized-blue;
 }
 
+.post-meta {
+    color: $solarized-yellow;
+    font-family: Hack;
+}
+
 .home-link {
     color: $solarized-cyan;
     font-family: Hack;
@@ -9,9 +14,4 @@
 
 ul {
     list-style: none;
-}
-
-time {
-    color: $solarized-yellow;
-    font-family: Hack;
 }
