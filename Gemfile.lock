@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    solarized-blog-theme (0.0.2)
+    solarized-blog-theme (0.1.0)
       jekyll (~> 3.8)
 
 GEM
@@ -69,4 +69,4 @@ DEPENDENCIES
   solarized-blog-theme!
 
 BUNDLED WITH
-   1.16.2
+   1.16.6
